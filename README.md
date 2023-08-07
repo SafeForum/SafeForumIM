@@ -1,0 +1,2 @@
+# SafeForumIM
+Secure messaging application
