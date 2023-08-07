@@ -11,7 +11,7 @@
 	<groupId>com.mysafeforum</groupId>
 	<artifactId>SafeForumIM</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>SafeForumIM</name>
 	<description>Secure Instant Messaging</description>
 	<properties>
 		<java.version>17</java.version>
